@@ -85,7 +85,7 @@ export const storeProducts = [
     total: 0
   },
   {
-    id: 10,
+    id: 8,
     title: "Principles",
     img: "img/Principles.png",
     price: 9,
